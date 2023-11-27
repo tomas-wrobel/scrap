@@ -1322,10 +1322,10 @@
   resolved "https://registry.yarnpkg.com/@types/wicg-file-system-access/-/wicg-file-system-access-2023.10.2.tgz#1a1cb2fb102b3d6516826aa593ba2a30d59cac7d"
   integrity sha512-nSiK8qt0O7sQmDcW3HYfvya7GDoD6ipgdcUFzk3QN+UBIqXeNg38Nh6VnKv7EIPfkVETRiquyMskCbpxUzgX1Q==
 
-"@types/wicg-web-app-launch@2023.1.1":
-  version "2023.1.1"
-  resolved "https://registry.yarnpkg.com/@types/wicg-web-app-launch/-/wicg-web-app-launch-2023.1.1.tgz#53d17ff6324edfacd3d4d6ff84256c8f4bf57dc1"
-  integrity sha512-Oh7J75/pQnKcXdR9dxUCoW3mkOTCa2V89pApuVCwMD7g3plM3mlzg1zhKNxfAIx3E8IjlYYvFwi7ha7YZzGvPg==
+"@types/wicg-web-app-launch@2023.1.3":
+  version "2023.1.3"
+  resolved "https://registry.yarnpkg.com/@types/wicg-web-app-launch/-/wicg-web-app-launch-2023.1.3.tgz#08580412018b532e9df16dc6ab1a7e519a526d55"
+  integrity sha512-AJphv9My4DBNpB8LHibEuYhW1X+rpb274gSw8GA303bjmm2rc+taKSCpMvMXln84nlbzKpmqZzs2+vgC7RjqDA==
 
 abab@^2.0.6:
   version "2.0.6"
