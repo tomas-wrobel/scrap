@@ -37,7 +37,7 @@
 	"dependencies": {
 		"@babel/core": "7.23.0",
 		"@blockly/field-colour-hsv-sliders": "4.1.6",
-		"@blockly/field-date": "8.0.7",
+		"@blockly/field-date": "8.0.10",
 		"@parcel/service-worker": "2.10.2",
 		"blockly": "10.2.2",
 		"doctrine": "3.0.0",

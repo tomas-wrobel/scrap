@@ -201,10 +201,10 @@
   resolved "https://registry.yarnpkg.com/@blockly/field-colour/-/field-colour-3.0.8.tgz#eef1166aa31c3241bcf80083e325603409f359dd"
   integrity sha512-ajIG+NLDy0RolWluvn6K5VCq7RwOtU+iemGXMYUOoFEHcVUtX/VGWzz1o+TW0k9QQ7Qo3kMrpsXzXydhus3atw==
 
-"@blockly/field-date@8.0.7":
-  version "8.0.7"
-  resolved "https://registry.yarnpkg.com/@blockly/field-date/-/field-date-8.0.7.tgz#1166e0d30c25edda0d7560ff4cc944759b382021"
-  integrity sha512-/Y3L4unadjS1dH9ro/odXSVVxoYFft8cxzgK+tKe1CEFMlrUs/KAns+o+DwwkiyOm2TeAjkmKnF9PC7r0wao9Q==
+"@blockly/field-date@8.0.10":
+  version "8.0.10"
+  resolved "https://registry.yarnpkg.com/@blockly/field-date/-/field-date-8.0.10.tgz#cafff04936b33399f43e4cd1f47db22b5678d792"
+  integrity sha512-HPT2QBBKFypPzC5J0/QKj+QJ1Vov8Iv0m/CKt3t/bpmQf2a+QSpajHw9v1Om/HJRzkD7h7IlBS/RwHnp8bOz9A==
 
 "@jridgewell/gen-mapping@^0.3.0", "@jridgewell/gen-mapping@^0.3.2":
   version "0.3.3"
