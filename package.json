@@ -22,7 +22,7 @@
 		"@types/babel__core": "7.20.2",
 		"@types/doctrine": "0.0.7",
 		"@types/file-saver": "2.0.5",
-		"@types/node": "20.8.10",
+		"@types/node": "20.10.5",
 		"@types/wicg-file-system-access": "2023.10.2",
 		"@types/wicg-web-app-launch": "2023.1.1",
 		"assert": "2.1.0",
