@@ -34,7 +34,7 @@
         "@babel/core": "7.24.9",
         "@babel/preset-typescript": "7.24.7",
         "@blockly/field-angle": "5.0.4",
-        "@blockly/field-colour-hsv-sliders": "5.0.4",
+        "@blockly/field-colour-hsv-sliders": "5.0.6",
         "@blockly/field-date": "9.0.3",
         "@parcel/reporter-static-files": "npm:parcel-reporter-static-files-copy@1.5.3",
         "@parcel/service-worker": "2.12.0",
